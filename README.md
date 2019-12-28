@@ -1,6 +1,6 @@
 # Introduction
-This is a task from Google Code-In
-Here you leran how to make interactive data visualization
+This is a task from Google Code-In.
+Here you learn how to make interactive data visualization.
 
 # Requirements
 - R
